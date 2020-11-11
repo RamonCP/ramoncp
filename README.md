@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Ramon  👋
 
+## I'm a Front-End Developer, Technology Entusiast, Comics Buff.
+
+- 🌱 I'm currently looking to improve my skills on JavaScript and NodeJS
+- 🥅 Goals: Contribute more to Open Source projects.
+- ⚡ I love to play basketball and I love to watch movies.
+
+<!-- ### Technology Stack:
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+-->
 <!--
 **RamonCP/ramoncp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
