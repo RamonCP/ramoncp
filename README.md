@@ -21,7 +21,7 @@
 ---
 
 #### 📊 Stats
-![Ramon Cavalcante's github stats](https://github-readme-stats.vercel.app/api?username=ramoncp)
+![Ramon Cavalcante's github stats](https://github-readme-stats.vercel.app/api?username=ramoncp&include_all_commits=true&hide=contribs)
 
 <br />
 <br />
