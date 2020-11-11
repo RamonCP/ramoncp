@@ -3,6 +3,7 @@
 ## I'm a Front-End Developer, Technology Entusiast, Comics Buff.
 
 - 🌱 I'm currently looking to improve my skills on JavaScript and NodeJS
+- 🎓 I'm currently learning NextJS
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play basketball and I love to watch movies.
 
@@ -20,7 +21,7 @@
 <br />
 
 #### 📊 Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramoncp)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramon Cavalcante's github stats](https://github-readme-stats.vercel.app/api?username=ramoncp)]
 
 <!--
 **RamonCP/ramoncp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
