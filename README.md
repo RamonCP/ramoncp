@@ -8,7 +8,7 @@
 
 #### 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px"/>](https://www.linkedin.com/in/ramoncp/)
-<a href="mailto:ramoncavpires@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+<a href="mailto:ramoncavpires@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40px"/> </a>
 
 #### 👨🏻‍💻 Technology Stack:
 <code><img width="40px" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
