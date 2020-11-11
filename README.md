@@ -23,6 +23,9 @@
 #### 📊 Stats
 ![Ramon Cavalcante's github stats](https://github-readme-stats.vercel.app/api?username=ramoncp)
 
+<br />
+<br />
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=ramoncp.ramoncp" alt="visitor badge" /> </p>
 <!--
 **RamonCP/ramoncp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
