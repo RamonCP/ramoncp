@@ -21,7 +21,7 @@
 <br />
 
 #### 📊 Stats
-[![Ramon Cavalcante's github stats](https://github-readme-stats.vercel.app/api?username=ramoncp)]
+![Ramon Cavalcante's github stats](https://github-readme-stats.vercel.app/api?username=ramoncp)
 
 <!--
 **RamonCP/ramoncp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
