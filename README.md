@@ -1,6 +1,6 @@
 ### Hi there, I'm Ramon  👋
 
-## I'm a Front-End Developer, Technology Entusiast, Comics Buff.
+## I'm a Front-End Developer, Technology Enthusiast, Comics Buff.
 
 - 🌱 I'm currently looking to improve my skills on JavaScript and NodeJS
 - 🎓 I'm currently learning NextJS
