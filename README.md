@@ -3,7 +3,7 @@
 ## I'm a Front-End Developer, Technology Enthusiast, Comics Buff.
 
 - 🌱 I'm currently looking to improve my skills on JavaScript and NodeJS
-- 🎓 I'm currently learning Typescript
+- 🎓 I'm currently learning NextJS
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play basketball and I love to watch movies.
 
@@ -20,10 +20,6 @@
 <code><img width="35px" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img width="35px" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
----
-
-#### 📊 Stats
-![Ramon Cavalcante's github stats](https://github-readme-stats.vercel.app/api?username=ramoncp&include_all_commits=true&count_private=true&hide=contribs)
 
 <!--
 <br />
