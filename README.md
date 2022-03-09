@@ -1,8 +1,8 @@
 ### Hi there, I'm Ramon  👋
 
-## I'm a Front-End Developer, Technology Enthusiast, Comics Buff.
+## I'm a Front-End Developer
 
-- 🌱 I'm currently looking to improve my skills on JavaScript and NodeJS
+- 🌱 I'm currently looking to improve my skills on JavaScript and Typescript
 - 🎓 I'm currently learning NextJS
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play basketball and I love to watch movies.
