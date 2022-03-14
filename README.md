@@ -3,7 +3,6 @@
 ## I'm a Front-End Developer
 
 - 🌱 I'm currently looking to improve my skills on JavaScript and Typescript
-- 🎓 I'm currently learning NextJS
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play basketball and I love to watch movies.
 
@@ -21,4 +20,3 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-
